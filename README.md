@@ -1,3 +1,3 @@
 # jee
 
-something instesting about java
+something interesting about java
